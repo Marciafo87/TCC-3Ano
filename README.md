@@ -1,2 +1,0 @@
-# Next-Level
-TCC ADM
